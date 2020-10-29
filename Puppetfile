@@ -12,6 +12,10 @@ mod 'win_security_tools',
   git:    'https://github.com/fervidus/win_security_tools.git',
   branch: 'main'
 
+mod 'puppet_ca_utils',
+  git:    'https://github.com/fervidus/puppet_ca_utils.git',
+  branch: 'master'
+
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
