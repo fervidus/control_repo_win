@@ -16,6 +16,10 @@ mod 'puppet_ca_utils',
   git:    'https://github.com/fervidus/puppet_ca_utils.git',
   branch: 'master'
 
+mod 'jpmc_peconfig',
+  git:    'https://github.com/fervidus/jpmc_peconfig.git',
+  branch: 'main'
+
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
